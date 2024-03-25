@@ -6,6 +6,18 @@
 }
 
 /* COLOURS */
+.akebono {
+	color: #8c73ad;
+	font-family: BentonSansCond-Bold;
+}
+.kwanzan {
+	color: #A96399;
+	font-family: BentonSansCond-Bold;
+}
+.other-cherry {
+	color: #34A185;
+	font-family: BentonSansCond-Bold;
+}
 .blue-01 {
 	background-color: var(--blue01);
 	border-radius: 2px;
