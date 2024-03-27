@@ -22,18 +22,6 @@
 	color: #34A185;
 	font-family: BentonSansCond-Bold;
 }
-.blue-01 {
-	background-color: var(--blue01);
-	border-radius: 2px;
-	color: #FFF;
-	padding: 1px 2px;
-}
-.green-01 {
-	background-color: var(--green01);
-	border-radius: 2px;
-	color: #FFF;
-	padding: 1px 2px;
-}
 
 
 /* APP & CHART WRAPPER */
@@ -71,7 +59,7 @@
 	text-align: center;
 }
 .scrollyteller .step:first-of-type {
-	margin-top: -25%;
+	margin-top: -35%;
 }
 .scrollyteller .step:last-of-type {
 	margin-bottom: 0;
@@ -79,7 +67,7 @@
 }
 
 .scrollyteller .step > p {
-	background: rgba(255,255,255,0.8);
+	background: rgba(255,255,255,1);
 	padding: 5px;
 }
 
